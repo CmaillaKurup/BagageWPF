@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="..\..\..\..\Downloads\BagageHaandtering-master\BagageHaandtering-master\BagageHåndtering\Counter.cs" Link="Counter.cs" />
+    <Compile Include="..\..\..\..\Downloads\BagageHaandtering-master\BagageHaandtering-master\BagageHåndtering\FlightPlan.cs" Link="FlightPlan.cs" />
+    <Compile Include="..\..\..\..\Downloads\BagageHaandtering-master\BagageHaandtering-master\BagageHåndtering\Gate.cs" Link="Gate.cs" />
+    <Compile Include="..\..\..\..\Downloads\BagageHaandtering-master\BagageHaandtering-master\BagageHåndtering\Manager.cs" Link="Manager.cs" />
+    <Compile Include="..\..\..\..\Downloads\BagageHaandtering-master\BagageHaandtering-master\BagageHåndtering\Program.cs" Link="Program.cs" />
+    <Compile Include="..\..\..\..\Downloads\BagageHaandtering-master\BagageHaandtering-master\BagageHåndtering\Sorting.cs" Link="Sorting.cs" />
+    <Compile Include="..\..\..\..\Downloads\BagageHaandtering-master\BagageHaandtering-master\BagageHåndtering\Suitcase.cs" Link="Suitcase.cs" />
+  </ItemGroup>
+
+</Project>
